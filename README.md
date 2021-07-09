@@ -1,0 +1,2 @@
+Hi, my name is Eryk Krol, I am a recent Gradute (Software Engineering BSc Hons, Cardiff Metropolitan University) developing small scale project to learn and improve my programming skills. I mainly program in Java, C# as well as web technologies Including PHP, Javascript (+ libaries) HTML, CSS (Bootstrap), but I am planning to add to that list! 
+I am open to work in Junior/Graduate positions around Cardiff, Wales. If you have an open position please contact me on eryklkrol@gmail.com or my LinkedIn: https://www.linkedin.com/in/eryk-krol-0a5b0519a/
